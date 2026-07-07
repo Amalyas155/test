@@ -4,7 +4,7 @@
 This project is an image classification model created using Google Teachable Machine. The model was trained to recognize two classes: **Cats** and **Birds**.
 
 ## Tools Used
-- Google Teachable Machine
+- Teachable Machine
 - Google Colab
 - Python
 
