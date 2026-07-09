@@ -24,4 +24,7 @@ The model successfully classified the test image with a confidence score of **99
 
 
 ## Author
-Amal yasser
+**Amal yasser**
+
+**Computer and Network Engineering Student
+University of Jeddah**
