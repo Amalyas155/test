@@ -19,7 +19,7 @@ This project is an image classification model created using Google Teachable Mac
 ## Result
 The model successfully classified the test image with a confidence score of **99.998%**.
 
-##output
+
 <img width="1122" height="638" alt="Screenshot 2026-07-07 122338" src="https://github.com/user-attachments/assets/d4fabcc0-378d-4148-8329-4ce734243a1b" />
 
 
